@@ -43,7 +43,7 @@ Since this is a binary classification problem, the following machine learning mo
 - Evaluated on 230 instances, achieving a balanced performance with an overall accuracy of **89%**, and high precision and recall in detecting heart disease.
 
 ### XGBoost
-- Outperformed other models with an accuracy of **91%**. After feature selection, the model's performance slightly declined, but still showed strong predictive capabilities.
+- The XGBoost model achieved an accuracy of **91%**, outperforming other models. However, after dropping the two least important features, accuracy decreased slightly to **86%**. Due to this drop in performance, the decision was made to retain all features and use the full model, which consistently showed the best results.
 
 ### Neural Networks
 - Consisted of five hidden layers with decreasing nodes and sigmoid activation functions. The model achieved a final test set accuracy of **89%** after 100 epochs.
@@ -66,7 +66,7 @@ The heart disease prediction app was built using **Streamlit**. It incorporates 
 - Predictive models optimize resource allocation, leading to better care and more accurate diagnoses.
 
 ## Conclusion
-The project successfully demonstrates the use of machine learning to predict heart disease, with the XGBoost model yielding the best results. The deployed Streamlit app offers an accessible tool for predicting heart disease risk based on clinical data, providing value in early detection and healthcare resource optimization.
+The project successfully demonstrates the use of machine learning to predict heart disease, with the XGBoost model yielding the best results when all features were retained. The deployed Streamlit app offers an accessible tool for predicting heart disease risk based on clinical data, providing value in early detection and healthcare resource optimization.
 
 ## Contributors
 This project was developed in collaboration with the following team members:Christina
