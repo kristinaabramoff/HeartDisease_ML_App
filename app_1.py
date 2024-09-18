@@ -30,11 +30,11 @@ st.markdown("**Group 4 Project**")
 
 # Collect the data for features
 age = st.slider("Age", min_value=0, max_value=120, value=40)
-resting_bp = st.slider("Resting Blood Pressure", min_value=0, max_value=300, value=120)
+resting_bp = st.slider("Mean arterial pressure", min_value=0, max_value=300, value=120)
 cholesterol = st.slider("Cholesterol Level", min_value=0, max_value=500, value=200)
 max_hr = st.slider("Maximum Heart Rate", min_value=0, max_value=250, value=150)
 oldpeak = st.number_input("Enter Oldpeak (ST depression induced by exercise)", min_value=0.0, max_value=10.0, value=0.0)
-fasting_bs = st.number_input("Enter Fasting Blood Sugar (1 if >120 mg/dl, 0 otherwise)", min_value=0, max_value=1, value=0)
+fasting_bs = st.number_input("Enter Fasting Blood Glucose (1 if >120 mg/dl, 0 otherwise)", min_value=0, max_value=1, value=0)
 
 # Collect categorical input features with automatic setting of related features
 sex = st.radio("Select Sex", options=["Male", "Female"])
