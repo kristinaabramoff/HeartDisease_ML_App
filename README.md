@@ -68,4 +68,10 @@ The heart disease prediction app was built using **Streamlit**. It incorporates 
 ## Conclusion
 The project successfully demonstrates the use of machine learning to predict heart disease, with the XGBoost model yielding the best results. The deployed Streamlit app offers an accessible tool for predicting heart disease risk based on clinical data, providing value in early detection and healthcare resource optimization.
 
+## Contributors
+This project was developed in collaboration with the following team members:Christina
+David Adeline rock
+Fatema G
+Frank Nguyen
+
 
