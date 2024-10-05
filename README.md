@@ -56,6 +56,8 @@ The heart disease prediction app was built using **Streamlit**. It incorporates 
 - The app provides predictions on the likelihood of heart disease using the pre-trained models.
 - A user-friendly interface allows for easy interaction and access to predictions.
 
+/Users/abramoff/Desktop/Screenshot 2024-10-05 at 6.24.29 pm.png
+
 ## Clinical Relevance of Results
 
 ### Healthcare Applications of Predictive Models:
