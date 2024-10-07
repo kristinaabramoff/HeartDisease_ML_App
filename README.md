@@ -85,5 +85,5 @@ Navigate to the project folder:
 
 - "streamlit run app_1.py" 
 
-
+This project was done in collaboration with Frank Nguyen, David Rock and Fatema G
 
