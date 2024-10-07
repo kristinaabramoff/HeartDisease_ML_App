@@ -83,12 +83,7 @@ The project successfully demonstrates the use of machine learning to predict hea
 Navigate to the project folder:
 - cd to HeartDisease_ML_APP folder
 
-- "streamlit run app_1.py"
+- "streamlit run app_1.py" 
 
-## Contributors
-This project was developed in collaboration with the following team members:Christina
-David Adeline rock
-Fatema G
-Frank Nguyen
 
 
