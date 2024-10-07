@@ -81,9 +81,9 @@ The project successfully demonstrates the use of machine learning to predict hea
 
    pip install streamlit
 Navigate to the project folder:
-- cd to HeartDisease_ML_APP folder
+- cd to HeartDisease_ML_APP folder 
 
-- "streamlit run app_1.py" 
+- "streamlit run app_1.py" - 
 
-This project was done in collaboration with Frank Nguyen, David Rock and Fatema G
+** This project was completed in collaboration with Frank Nguyen, David Rock and Fatema G**
 
